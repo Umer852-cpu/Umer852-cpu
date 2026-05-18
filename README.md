@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Umer Hanif 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&width=500&lines=BS+Artificial+Intelligence+Student;Machine+Learning+%7C+AI+Developer;Real-World+AI+%26+ML+Projects;Python+%7C+Data+Science+%7C+Databases)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&width=600&lines=BS+Artificial+Intelligence+Student;Machine+Learning+%7C+AI+Developer;Object+Detection+%7C+Computer+Vision;Python+%7C+C%2B%2B+%7C+Data+Science+%7C+Graphic+Design)
 
 ---
 
@@ -8,7 +8,9 @@
 
 - 🎓 Student of **BS Artificial Intelligence**
 - 🤖 Building **real-world Machine Learning & AI projects**
-- 🐍 Strong hands-on skills in **Python**
+- 👁️ Specialized in **Object Detection & Computer Vision**
+- 🐍 Strong hands-on skills in **Python, C++, and C**
+- 🎨 Also a **Graphic Designer** — creativity meets technology
 - 🗄️ Working with **Databases** for data-driven solutions
 - 📁 This GitHub is my **portfolio** — proof of my skills through real projects
 - 🌱 Continuously learning and applying industry-level AI practices
@@ -20,19 +22,28 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI / Machine Learning
+### AI / Machine Learning / Computer Vision
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-00FFFF?style=for-the-badge&logo=python&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### Design & Creative
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -49,10 +60,12 @@
 
 | # | Project | Description | Tech Used |
 |---|---------|-------------|-----------|
-| 1 | 🧠 [Project Name](https://github.com/UmerKhan) | Real-life ML/AI project — add description | Python, Scikit-Learn |
-| 2 | 📊 [Project Name](https://github.com/UmerKhan) | Data analysis / prediction project | Pandas, Matplotlib |
-| 3 | 🗄️ [Project Name](https://github.com/UmerKhan) | Database-driven application | Python, MySQL |
-| 4 | 🤖 [Project Name](https://github.com/UmerKhan) | Deep learning / AI model | TensorFlow, Keras |
+| 1 | 👁️ [Object Detection Project](https://github.com/UmerKhan) | Real-time object detection using YOLO/OpenCV | Python, YOLO, OpenCV |
+| 2 | 🧠 [ML Project](https://github.com/UmerKhan) | Machine learning model on real-world data | Python, Scikit-Learn |
+| 3 | 🤖 [AI / Deep Learning](https://github.com/UmerKhan) | Deep learning model training & evaluation | TensorFlow, Keras |
+| 4 | 📊 [Data Analysis](https://github.com/UmerKhan) | Data analysis and visualization project | Pandas, Matplotlib |
+| 5 | 🗄️ [Database Project](https://github.com/UmerKhan) | Database-driven application | Python, MySQL |
+| 6 | 🐍 [Python Practice](https://github.com/UmerKhan/Python-Practice) | Complete Python from basics to OOP | Python, Jupyter |
 
 > ⭐ Visit my **pinned repositories** to explore the full projects with code & documentation!
 
